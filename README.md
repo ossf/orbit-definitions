@@ -19,6 +19,9 @@ The parent charter (§2.1) requires this list to be prominently displayed. Anyth
 | Effort | Repository | Status | Maintainers |
 |--------|------------|--------|-------------|
 | Open Source Project Security Baseline (OSPS Baseline) | [`ossf/security-baseline`](https://github.com/ossf/security-baseline) | Released | [list](https://github.com/ossf/security-baseline/blob/main/governance/MAINTAINERS.md) |
+| Open Source Project Security Templates (OSPS Templates) | [`ossf/osps-templates`](https://github.com/ossf/osps-templates) | Draft | _not yet published_ |
+| CRA Baseline for Open Source Consumption (CRABFOSC) | [`ossf/crabfosc`](https://github.com/ossf/crabfosc) | Draft | _not yet published_ |
+| AI Project Security Baseline | _no repository yet_ | Proposed | _none_ |
 
 Status values: **Proposed** (under consideration), **Draft** (development initiated, pre-release), **Released** (meets the SIG's publication criteria), **Retired** (archived or superseded; no longer receiving updates).
 
